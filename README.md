@@ -1,5 +1,5 @@
 # OXGame
-A console based OX game written in C#
+A console based OX game written in C#.NET Core
 
 ## How to play?
 1. Download the release and directly execute the exe file.
