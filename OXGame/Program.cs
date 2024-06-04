@@ -19,6 +19,9 @@
         {
             Program program = new Program();
             program.play();
+            Console.WriteLine();
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey();
         }
         bool SeekHorizondalMatch()
         {
